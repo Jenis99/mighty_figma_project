@@ -1,0 +1,260 @@
+@font-face {
+    font-family:'Gilroy' ;
+    src: url("../fonts/Gilroy-ExtraBold.otf");
+}
+@font-face {
+    font-family:'Gilroy1' ;
+    src: url("../fonts/Gilroy-Light.otf");
+}
+
+/* secrtion-1 */
+.section-1{
+    background: #002856;
+    border-radius: 14px;
+}
+.our-mission{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #DF6651;
+}
+.paragraph{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}
+/* secrtion-1 */
+
+
+/* secrtion-2 */
+.section-2{
+    background: #DF6651;
+    border-radius: 14px;
+    padding-bottom: 30px;
+
+}
+.our-story{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #091026;
+}
+.paragraph{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}
+.box{
+    width: 400px;
+    background-color: #FFA495;
+    border-radius: 30px;
+}
+.box-adjust{
+    padding-left: 100px;
+}
+.here-box{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #DF6651;
+    padding: 100px;
+  
+}
+/* secrtion-2 */
+
+
+/* section-3 */
+.section-3{
+    background-color: #51A380;
+    border-radius: 14px;
+}
+.team{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #091026;
+}
+.team-para{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}
+
+/* section-3 */
+
+
+
+/* secrtiom-4 */
+
+.section-4{
+    background-color: #B9405B;
+    border-radius: 14px;
+}
+.investor{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #091026;
+}
+
+/* section-4 */
+
+/* section-5 */
+.section-5{
+    background-color: #091026;
+    border-radius: 14px;
+}
+.partner{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #DF6651;
+}
+.sec-5-make-big{
+    
+    background-color: #F7EFE1;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #091026;
+    padding-left:15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+}
+/* section-5 */
+
+/* section-6 */
+.section-6{
+    background-color: #0A7A69;
+    border-radius: 14px;
+}
+.news{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color:#091026;
+}
+.news-1{
+    background-color:#F7EFE1 ;
+    border-radius: 14px;
+
+}
+.recent-btn{
+    color: #fff;
+    background-color:#0A7A69 ;
+    margin-top: 130px;
+    border: none;
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+}
+.para-1{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #002856;
+}
+.para-width{
+    width: 500px;
+}
+.para-2{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #002856;
+    opacity: 0.5;
+}
+.read-btn{
+    color: #fff;
+    background-color:#DF6651 ;
+    margin-top: 30px;
+    border: none;
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0; 
+    border-top-right-radius: 30px;
+}
+/* section-6 */
+
+
+
+/* mobile-10 */
+.mobile-10{
+    background-color: #B9405B;
+    color: #fff;
+    border-radius: 14px;
+}
+.ms-10-first{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+/* mobile-10 */
+
+
+/* mobile-11 */
+.mobile-11{
+    background-color: #002856;
+    color: #fff;
+    border-radius: 14px;
+}
+.ms-legal{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+}
+.ms-article{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+.ul{
+    list-style: none;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    opacity: 0.5;
+}
+/* mobile-11 */
+.last-ms-text{
+    font-family: 'Gilroy1';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #002856;
+}
